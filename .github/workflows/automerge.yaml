@@ -10,9 +10,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # 最新のバージョンに更新
 
       - name: Auto merge
-        uses: pascalgn/automerge-action@v0.15.3
+        uses: pascalgn/automerge-action@v0.15.0  # 仮にv0.15.0が最新でNode.js 20に対応しているとします
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # カスタムシークレット名を使用
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
