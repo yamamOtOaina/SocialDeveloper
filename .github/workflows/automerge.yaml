@@ -1,4 +1,4 @@
-name: Pull Request Auto Merge
+ame: Pull Request Auto Merge
 
 on:
   pull_request:
@@ -7,12 +7,11 @@ on:
 jobs:
   automerge:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # 最新のバージョンに更新
+        uses: actions/checkout@v3
 
-      - name: Auto merge
-        uses: pascalgn/automerge-action@v0.15.0  # 仮にv0.15.0が最新でNode.js 20に対応しているとします
+      - name: Automerge
+        uses: pascalgn/automerge-action@v0.15.0  # 最新バージョンであることを確認してください
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
