@@ -151,6 +151,7 @@ studentID - username <br/>
 2111286 - Hisashi Yoshizawa<br/>
 2011156 - Teyon Son<br/>
 2111120 - Takuya Sasaki<br/>
+2411166 - Marika Takahashi<br/>
 2011412 - Le Vu Trung Duong<br/>
 2211311
 L200194209 - Fadhlih Hasan Setiawan <br/>
@@ -461,4 +462,6 @@ Tomoya Okuno, motonuko<br/>
 2311091 - Ayuki Katayama <br/>
 2311182 - Tokunaga  Rin <br/>
 2311325 - Marin Mikami <br/>
-Adding a test!
+2411189 - Takumi Tsurugai <br/>
+2411130 - Takuma Sato <br/>
+2411111 - Sosui Koga <br/>
