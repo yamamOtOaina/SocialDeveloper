@@ -1,0 +1,17 @@
+ame: Pull Request Auto Merge
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Automerge
+        uses: pascalgn/automerge-action@v0.15.0  # 最新バージョンであることを確認してください
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
