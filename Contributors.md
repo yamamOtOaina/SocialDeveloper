@@ -462,6 +462,7 @@ Tomoya Okuno, motonuko<br/>
 2311091 - Ayuki Katayama <br/>
 2311182 - Tokunaga  Rin <br/>
 2311325 - Marin Mikami <br/>
+2411245 - Naoki Fujieda <br/>
 2411129 - Keisuke Sato <br/>
 2411189 - Takumi Tsurugai <br/>
 2411130 - Takuma Sato <br/>
