@@ -1,5 +1,4 @@
 studentID - username <br/>
-2411341 - Zhou Wangzixi - githubid:37integer <br/>
 2311065 - Otsubo Hiromu<br/>
 2311062 - Toi Ooka<br/>
 2311245 - Koki Hori<br/>
@@ -13,6 +12,7 @@ studentID - username <br/>
 2311280 - Yasuhito Morikawa <br/>
 2311133 - Kohei Sawano <br/>
 2311006 - Koki Asahina<br/>
+2411341 - Zhou Wangzixi - githubid:37integer <br/>
 2311126 - Yuki Sakai <br/>
 2111149 - Keiichiro Takahashi <br/>
 2211320 - Ryuki Yoshida <br/>
