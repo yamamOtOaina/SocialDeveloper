@@ -492,6 +492,7 @@ Tomoya Okuno, motonuko<br/>
 2411272 - Shota Miyagawa <br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
+2411229 - Shun Hattori <br/>
 2411218 - Daisuke Narita <br/>
 2411066 - Shintaro Ozaki <br/>
 2411264 - Issei Matsumoto </br>
