@@ -473,6 +473,7 @@ Tomoya Okuno, motonuko<br/>
 2411004 - Ryoji Agatsuma <br/>
 2411116 - Kota Kotegawa <br/>
 2411141 - Kouki Shibata <br/>
+2411115 - Tsukasa Kojo <br/>
 2411194 - Michiko Tokuyama <br/>
 2411245 - Naoki Fujieda <br/>
 2411129 - Keisuke Sato <br/>
