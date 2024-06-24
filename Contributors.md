@@ -495,6 +495,7 @@ Tomoya Okuno, motonuko<br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
 2411218 - Daisuke Narita <br/>
+2411214 - Kazuki Nagayama <br/>
 2411112 - Shuhei Kosaka <br/>
 2411014 - Atsuya Ikeno <br/>
 2411045 - Atsushi Ohta <br/>
