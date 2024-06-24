@@ -492,6 +492,7 @@ Tomoya Okuno, motonuko<br/>
 2411189 - Takumi Tsurugai <br/>
 2411130 - Takuma Sato <br/>
 2411111 - Sosui Koga <br/>
+2411286 - Kiyotada Mori <br>
 2411176 - Tamaki Taiyo <br/>
 2411272 - Shota Miyagawa <br/>
 2411111 - Sosui Koga <br/>
