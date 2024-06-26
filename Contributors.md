@@ -504,6 +504,7 @@ Tomoya Okuno, motonuko<br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
 2411218 - Daisuke Narita <br/>
+2311421 - Oyebode Oluwatobi Oyewale <br/>
 2411138 - Ryosuke Shigeto <br/>
 2311423 - P.K Ashmari Pramodya </br>
 2311030 - Yuki Ichihara <br/>
