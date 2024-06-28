@@ -505,6 +505,7 @@ Tomoya Okuno, motonuko<br/>
 2411111 - Sosui Koga <br/>
 2411299 - Hisashi Yashima <br/>
 2411218 - Daisuke Narita <br/>
+2411287 - Kanata Morimoto (id: mor-kana) <br/>
 2411087 - Arisa Kandori <br/>
 2311421 - Oyebode Oluwatobi Oyewale <br/>
 2411138 - Ryosuke Shigeto <br/>
